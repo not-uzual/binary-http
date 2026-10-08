@@ -1,0 +1,11 @@
+# build output
+server/bserve
+client/bcurl
+**/*.o
+
+# captures
+*.bin
+RUNNING.md
+SPEC.md
+tests/
+tools/

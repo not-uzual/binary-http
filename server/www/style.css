@@ -1,0 +1,3 @@
+body { font: 16px/1.6 ui-monospace, Menlo, monospace; max-width: 40rem; margin: 4rem auto; }
+h1   { letter-spacing: -0.02em; }
+code { background: #f4f4f5; padding: 0 .25em; border-radius: 3px; }
